@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="fi"> <!-- Tässä sivussa käytetään suomea -->
+<head>
+    <meta charset='utf-8'> <!-- Muista myös vaihta editorin koodausta! -->
+    <title>Minun ensimmäinen sivu</title>
+    <ul>Mutinnan sota
+
+</head>
+<body>
+    <p>Moikka maailma!</p>
+    <!-- seuraava kappale ei tule näkyviin
+    <p>Moikka taas!</p>
+    -->
+    <p>Näkeekö tämä?</p>
+</body>
+</html>
